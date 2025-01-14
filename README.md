@@ -37,6 +37,7 @@ This project is structured to:
 Preprocess the dataset for exploratory data analysis (EDA) and visualization.
 Train and evaluate multiple machine learning algorithms for classification.
 Generate reports on model performance and identify the most effective algorithm for the task.
+
 Example usage:
 
 Modify the dataset to include updated observations.
