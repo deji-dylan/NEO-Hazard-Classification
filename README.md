@@ -21,7 +21,7 @@ Classification labels (hazardous or non-hazardous)
 To run this project locally:
 
 Clone the repository:
-git clone https://github.com/deji-dylan/astroguard.git
+git clone https://github.com/deji-dylan/NEO-Hazard-Classification.git
 
 Install the required dependencies:
 pip install -r requirements.txt
