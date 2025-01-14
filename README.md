@@ -27,6 +27,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 
 Open the notebook:
+
 jupyter notebook
 Navigate to Machine_Learning_Algorithms_for_Classifying_NEOs.ipynb and run the cells sequentially.
 
@@ -35,19 +36,25 @@ Navigate to Machine_Learning_Algorithms_for_Classifying_NEOs.ipynb and run the c
 This project is structured to:
 
 Preprocess the dataset for exploratory data analysis (EDA) and visualization.
+
 Train and evaluate multiple machine learning algorithms for classification.
+
 Generate reports on model performance and identify the most effective algorithm for the task.
 
 Example usage:
 
 Modify the dataset to include updated observations.
+
 Fine-tune the parameters for better performance.
+
 Extend the analysis with additional features.
 
 ## Key Features
 
 Comprehensive EDA to understand NEO characteristics.
+
 Comparison of various machine learning models (e.g., Decision Trees, Random Forests, Neural Networks).
+
 Customizable pipeline for future data integration.
 
 ## Contributing
@@ -55,10 +62,15 @@ Customizable pipeline for future data integration.
 Contributions are welcome! To contribute:
 
 Fork the repository.
+
 Create a new branch:
+
 git checkout -b feature-name
+
 Make your changes and commit them:
+
 git commit -m "Description of changes"
+
 Push to the branch:
 git push origin feature-name
 Open a Pull Request.
